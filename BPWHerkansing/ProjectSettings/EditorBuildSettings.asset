@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: bf582ae0e520ef34a9594b6c5b3bd3bb
+  - enabled: 1
+    path: Assets/Scenes/MainGAme.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Failed.unity
+    guid: f619b31bba3af7347b955500fad5a685
+  - enabled: 1
+    path: Assets/Scenes/Succeed.unity
+    guid: 868281f930eadbf469e162bc7b322e54
+  - enabled: 1
+    path: Assets/Scenes/AnimationTrigger.unity
+    guid: 16f6829455aed6747b1c63155a3c3571
   m_configObjects: {}
